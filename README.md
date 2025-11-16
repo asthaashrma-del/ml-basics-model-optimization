@@ -90,6 +90,6 @@ You can update these once you run your final models.
 -Uses a classic dataset, making results easy to explain
 -Clean, modular, and beginner-friendly code structure
 
-📬 Contact
+## 📬 Contact
 Feel free to reach out for improvements or suggestions!
 ---
