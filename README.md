@@ -1,4 +1,4 @@
-# ML Model Optimization Project (Iris Dataset)
+# ML Model Optimization Project 
 
 ## 📌 Overview
 This project builds and optimizes a Machine Learning model using the classic Iris dataset.
