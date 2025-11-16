@@ -75,15 +75,13 @@ pip install -r requirements.txt
 ### 4- Run the project  
 python main.py
 
----
-
-📊 Results
+## 📊 Results
 -Baseline model accuracy: (your baseline accuracy here)
 -Boosted model accuracy: (your improved score here)
 -Improvement achieved: (difference here)
 You can update these once you run your final models.
 
-🤖 Why This Project Matters
+## 🤖 Why This Project Matters
 -Shows your understanding of ML model lifecycle
 -Demonstrates optimization thinking
 -Great for interviews and portfolio
