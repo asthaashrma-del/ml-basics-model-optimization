@@ -65,7 +65,8 @@ BoostedBaseline-ML/
 python -m venv venv
 
 ### 2- Activate environment  
-source venv/bin/activate  # Mac/Linux
+source venv/bin/activate  # Mac/Linux  
+
 venv\Scripts\activate     # Windows
 
 ### 3- Install project dependencies  
