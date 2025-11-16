@@ -44,8 +44,23 @@ This project follows a structure that makes your work professional and understan
 -Boosted models (GradBoost / AdaBoost / XGBoost depending on your setup)
 -Metrics calculation (accuracy, precision, recall)
 -Visualization for results and model comparison
+-Feature importance analysis (if using tree-based models)
 
-Feature importance analysis (if using tree-based models)
+## 📂 Project Structure
+BoostedBaseline-ML/
+│
+├── data/
+│   └── iris.csv               # Dataset (optional if auto-loaded from sklearn)
+│
+├── notebooks/
+│   └── baseline.ipynb         # Initial simple model
+│   └── boosted_model.ipynb    # Model optimization experiments
+│
+├── run.sh                     # Script to run main pipeline
+├── requirements.txt           # Python dependencies
+├── main.py                    # Main training & evaluation script
+└── README.md                  # Project documentation
+
 ## 🚀 How to Run the Project
 ### 1️- Create virtual environment 
 python -m venv venv
