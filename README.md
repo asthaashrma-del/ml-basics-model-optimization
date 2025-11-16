@@ -47,19 +47,18 @@ This project follows a structure that makes your work professional and understan
 -Feature importance analysis (if using tree-based models)
 
 ## 📂 Project Structure
+
 BoostedBaseline-ML/
 │
-├── data/
-│   └── iris.csv               # Dataset (optional if auto-loaded from sklearn)
+├── data/               # iris.csv
+├── models/             # baseline & tuned model
+├── results/            # evaluation outputs
+├── scripts/            # train & evaluate
 │
-├── notebooks/
-│   └── baseline.ipynb         # Initial simple model
-│   └── boosted_model.ipynb    # Model optimization experiments
-│
-├── run.sh                     # Script to run main pipeline
-├── requirements.txt           # Python dependencies
-├── main.py                    # Main training & evaluation script
-└── README.md                  # Project documentation
+├── requirements.txt
+├── run.sh
+└── README.md
+
 
 ## 🚀 How to Run the Project
 ### 1️- Create virtual environment 
