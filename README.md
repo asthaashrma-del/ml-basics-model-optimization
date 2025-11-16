@@ -1,12 +1,12 @@
 # ML Model Optimization Project 
 
-## 📌 Overview
+##  Overview
 This project builds and optimizes a Machine Learning model using the classic Iris dataset.
 The main goal is to start with a baseline model, apply boosting techniques, and observe how performance improves through systematic model optimization.
 
 It is designed to be simple, beginner-friendly, and professional enough for interviews and portfolio use.
 
-## 🌼 Iris Dataset
+##  Iris Dataset
 
 The Iris dataset contains 150 flower samples across 3 species:
 -Setosa
@@ -20,7 +20,7 @@ Each sample includes 4 numerical features:
 -Petal width
 This dataset is widely used for classification tasks because it is small, clean, and easy to visualize.
 
-## 🎯 Project Objectives
+##  Project Objectives
 ✔ Build a baseline ML model
 You begin with a simple classifier to understand performance without optimization.
 
@@ -38,7 +38,7 @@ You evaluate accuracy, confusion matrices, and performance metrics.
 ✔ Build a clean & reproducible ML workflow
 This project follows a structure that makes your work professional and understandable for others.
 
-## 🧠 What Techniques We Used
+##  What Techniques We Used
 -Train–test split to check model generalization
 -Baseline model (Logistic Regression / Decision Tree)
 -Boosted models (GradBoost / AdaBoost / XGBoost depending on your setup)
@@ -46,7 +46,7 @@ This project follows a structure that makes your work professional and understan
 -Visualization for results and model comparison
 -Feature importance analysis (if using tree-based models)
 
-## 📂 Project Structure
+## Project Structure
 
 BoostedBaseline-ML/
 │
@@ -60,7 +60,7 @@ BoostedBaseline-ML/
 └── README.md
 
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 ### 1️- Create virtual environment 
 python -m venv venv
 
@@ -74,19 +74,17 @@ pip install -r requirements.txt
 ### 4- Run the project  
 python main.py
 
-## 📊 Results
+##  Results
 -Baseline model accuracy: (your baseline accuracy here)
 -Boosted model accuracy: (your improved score here)
 -Improvement achieved: (difference here)
 You can update these once you run your final models.
 
-## 🤖 Why This Project Matters
+##  Why This Project Matters
 -Shows your understanding of ML model lifecycle
 -Demonstrates optimization thinking
 -Great for interviews and portfolio
 -Uses a classic dataset, making results easy to explain
 -Clean, modular, and beginner-friendly code structure
 
-## 📬 Contact
-Feel free to reach out for improvements or suggestions!
 ---
